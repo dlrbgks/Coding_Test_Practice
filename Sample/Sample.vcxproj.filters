@@ -18,7 +18,7 @@
     <ClCompile Include="s1_chess.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="s2_.c">
+    <ClCompile Include="s2_Sugar_Order.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
