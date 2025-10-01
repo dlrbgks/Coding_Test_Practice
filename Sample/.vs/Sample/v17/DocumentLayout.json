@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Coding\\C_Test_Practice\\Sample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|C:\\Coding\\C_Test_Practice\\Sample\\s2_.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|solutionrelative:s2_.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|C:\\Coding\\C_Test_Practice\\Sample\\s1_chess.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|solutionrelative:s1_chess.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "s2_.c",
+              "DocumentMoniker": "C:\\Coding\\C_Test_Practice\\Sample\\s2_.c",
+              "RelativeDocumentMoniker": "s2_.c",
+              "ToolTip": "C:\\Coding\\C_Test_Practice\\Sample\\s2_.c",
+              "RelativeToolTip": "s2_.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-01T01:26:04.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "s1_chess.c",
+              "DocumentMoniker": "C:\\Coding\\C_Test_Practice\\Sample\\s1_chess.c",
+              "RelativeDocumentMoniker": "s1_chess.c",
+              "ToolTip": "C:\\Coding\\C_Test_Practice\\Sample\\s1_chess.c",
+              "RelativeToolTip": "s1_chess.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-30T10:49:52.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
