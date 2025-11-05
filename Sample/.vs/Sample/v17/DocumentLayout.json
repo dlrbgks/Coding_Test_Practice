@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Coding\\Coding_Test_Practice\\Sample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|C:\\Coding\\Coding_Test_Practice\\Sample\\s2_Sugar_Order.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|solutionrelative:s2_Sugar_Order.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|C:\\Coding\\Coding_Test_Practice\\Sample\\s5_Tile-0\u00261.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|solutionrelative:s5_Tile-0\u00261.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|C:\\Coding\\Coding_Test_Practice\\Sample\\s3_Merge_Two.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|solutionrelative:s3_Merge_Two.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|C:\\Coding\\Coding_Test_Practice\\Sample\\s4_Group_Word_Check.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|solutionrelative:s4_Group_Word_Check.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|C:\\Coding\\Coding_Test_Practice\\Sample\\s1_chess.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|solutionrelative:s1_chess.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|C:\\Coding\\Coding_Test_Practice\\Sample\\s2_Sugar_Order.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|solutionrelative:s2_Sugar_Order.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,19 +35,57 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "s2_Sugar_Order.c",
-              "DocumentMoniker": "C:\\Coding\\Coding_Test_Practice\\Sample\\s2_Sugar_Order.c",
-              "RelativeDocumentMoniker": "s2_Sugar_Order.c",
-              "ToolTip": "C:\\Coding\\Coding_Test_Practice\\Sample\\s2_Sugar_Order.c",
-              "RelativeToolTip": "s2_Sugar_Order.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Title": "s5_Tile-0\u00261.c",
+              "DocumentMoniker": "C:\\Coding\\Coding_Test_Practice\\Sample\\s5_Tile-0\u00261.c",
+              "RelativeDocumentMoniker": "s5_Tile-0\u00261.c",
+              "ToolTip": "C:\\Coding\\Coding_Test_Practice\\Sample\\s5_Tile-0\u00261.c",
+              "RelativeToolTip": "s5_Tile-0\u00261.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-10-01T01:26:04.415Z",
+              "WhenOpened": "2025-11-04T09:10:32.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "s4_Group_Word_Check.c",
+              "DocumentMoniker": "C:\\Coding\\Coding_Test_Practice\\Sample\\s4_Group_Word_Check.c",
+              "RelativeDocumentMoniker": "s4_Group_Word_Check.c",
+              "ToolTip": "C:\\Coding\\Coding_Test_Practice\\Sample\\s4_Group_Word_Check.c",
+              "RelativeToolTip": "s4_Group_Word_Check.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwDcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-04T08:25:31.374Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "s3_Merge_Two.c",
+              "DocumentMoniker": "C:\\Coding\\Coding_Test_Practice\\Sample\\s3_Merge_Two.c",
+              "RelativeDocumentMoniker": "s3_Merge_Two.c",
+              "ToolTip": "C:\\Coding\\Coding_Test_Practice\\Sample\\s3_Merge_Two.c",
+              "RelativeToolTip": "s3_Merge_Two.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-29T01:42:10.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "s2_Sugar_Order.c",
+              "DocumentMoniker": "C:\\Coding\\Coding_Test_Practice\\Sample\\s2_Sugar_Order.c",
+              "RelativeDocumentMoniker": "s2_Sugar_Order.c",
+              "ToolTip": "C:\\Coding\\Coding_Test_Practice\\Sample\\s2_Sugar_Order.c",
+              "RelativeToolTip": "s2_Sugar_Order.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-01T01:26:04.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "s1_chess.c",
               "DocumentMoniker": "C:\\Coding\\Coding_Test_Practice\\Sample\\s1_chess.c",
               "RelativeDocumentMoniker": "s1_chess.c",
@@ -43,8 +93,7 @@
               "RelativeToolTip": "s1_chess.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-09-30T10:49:52.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T10:49:52.331Z"
             }
           ]
         }

@@ -1,2 +1,3 @@
-﻿  s2_Sugar_Order.c
+﻿  s4_Group_Word_Check.c
+C:\Coding\Coding_Test_Practice\Sample\s4_Group_Word_Check.c(8,7): warning C4101: 'ch_word' :참조되지 않은 지역 변수입니다.
   Sample.vcxproj -> C:\Coding\Coding_Test_Practice\Sample\x64\Debug\Sample.exe

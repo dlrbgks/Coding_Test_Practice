@@ -21,5 +21,14 @@
     <ClCompile Include="s2_Sugar_Order.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="s3_Merge_Two.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="s4_Group_Word_Check.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="s5_Tile-0&amp;1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
