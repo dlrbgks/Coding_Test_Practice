@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Coding\\Coding_Test_Practice\\Sample\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|C:\\Coding\\Coding_Test_Practice\\Sample\\s8_Aschi_Distance.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|solutionrelative:s8_Aschi_Distance.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|C:\\Coding\\Coding_Test_Practice\\Sample\\s4_Group_Word_Check.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|solutionrelative:s4_Group_Word_Check.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|C:\\Coding\\Coding_Test_Practice\\Sample\\s3_Merge_Two.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|solutionrelative:s3_Merge_Two.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|C:\\Coding\\Coding_Test_Practice\\Sample\\s6_Number_Card.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|solutionrelative:s6_Number_Card.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|C:\\Coding\\Coding_Test_Practice\\Sample\\s7_Color_Paper.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|solutionrelative:s7_Color_Paper.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|C:\\Coding\\Coding_Test_Practice\\Sample\\s1_chess.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -17,6 +25,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|C:\\Coding\\Coding_Test_Practice\\Sample\\s2_Sugar_Order.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|solutionrelative:s2_Sugar_Order.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|C:\\Coding\\Coding_Test_Practice\\Sample\\s3_Merge_Two.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|solutionrelative:s3_Merge_Two.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|C:\\Coding\\Coding_Test_Practice\\Sample\\s5_Tile-0\u00261.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|solutionrelative:s5_Tile-0\u00261.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,44 +47,97 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "s8_Aschi_Distance.c",
+              "DocumentMoniker": "C:\\Coding\\Coding_Test_Practice\\Sample\\s8_Aschi_Distance.c",
+              "RelativeDocumentMoniker": "s8_Aschi_Distance.c",
+              "ToolTip": "C:\\Coding\\Coding_Test_Practice\\Sample\\s8_Aschi_Distance.c",
+              "RelativeToolTip": "s8_Aschi_Distance.c",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-11T12:17:11.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "s7_Color_Paper.c",
+              "DocumentMoniker": "C:\\Coding\\Coding_Test_Practice\\Sample\\s7_Color_Paper.c",
+              "RelativeDocumentMoniker": "s7_Color_Paper.c",
+              "ToolTip": "C:\\Coding\\Coding_Test_Practice\\Sample\\s7_Color_Paper.c",
+              "RelativeToolTip": "s7_Color_Paper.c",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-06T03:36:07.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "s6_Number_Card.c",
+              "DocumentMoniker": "C:\\Coding\\Coding_Test_Practice\\Sample\\s6_Number_Card.c",
+              "RelativeDocumentMoniker": "s6_Number_Card.c",
+              "ToolTip": "C:\\Coding\\Coding_Test_Practice\\Sample\\s6_Number_Card.c",
+              "RelativeToolTip": "s6_Number_Card.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-06T03:35:23.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "s5_Tile-0\u00261.c",
+              "DocumentMoniker": "C:\\Coding\\Coding_Test_Practice\\Sample\\s5_Tile-0\u00261.c",
+              "RelativeDocumentMoniker": "s5_Tile-0\u00261.c",
+              "ToolTip": "C:\\Coding\\Coding_Test_Practice\\Sample\\s5_Tile-0\u00261.c",
+              "RelativeToolTip": "s5_Tile-0\u00261.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-04T09:10:32.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "s4_Group_Word_Check.c",
               "DocumentMoniker": "C:\\Coding\\Coding_Test_Practice\\Sample\\s4_Group_Word_Check.c",
               "RelativeDocumentMoniker": "s4_Group_Word_Check.c",
-              "ToolTip": "C:\\Coding\\Coding_Test_Practice\\Sample\\s4_Group_Word_Check.c*",
-              "RelativeToolTip": "s4_Group_Word_Check.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "ToolTip": "C:\\Coding\\Coding_Test_Practice\\Sample\\s4_Group_Word_Check.c",
+              "RelativeToolTip": "s4_Group_Word_Check.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-11-04T08:25:31.374Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "s3_Merge_Two.c",
               "DocumentMoniker": "C:\\Coding\\Coding_Test_Practice\\Sample\\s3_Merge_Two.c",
               "RelativeDocumentMoniker": "s3_Merge_Two.c",
               "ToolTip": "C:\\Coding\\Coding_Test_Practice\\Sample\\s3_Merge_Two.c",
               "RelativeToolTip": "s3_Merge_Two.c",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-10-29T01:42:10.201Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "s2_Sugar_Order.c",
               "DocumentMoniker": "C:\\Coding\\Coding_Test_Practice\\Sample\\s2_Sugar_Order.c",
               "RelativeDocumentMoniker": "s2_Sugar_Order.c",
               "ToolTip": "C:\\Coding\\Coding_Test_Practice\\Sample\\s2_Sugar_Order.c",
               "RelativeToolTip": "s2_Sugar_Order.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxQAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-10-01T01:26:04.415Z"
+              "WhenOpened": "2025-10-01T01:26:04.415Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "s1_chess.c",
               "DocumentMoniker": "C:\\Coding\\Coding_Test_Practice\\Sample\\s1_chess.c",
               "RelativeDocumentMoniker": "s1_chess.c",
@@ -76,7 +145,8 @@
               "RelativeToolTip": "s1_chess.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-09-30T10:49:52.331Z"
+              "WhenOpened": "2025-09-30T10:49:52.331Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -30,5 +30,14 @@
     <ClCompile Include="s5_Tile-0&amp;1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="s6_Number_Card.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="s7_Color_Paper.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="s8_Aschi_Distance.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

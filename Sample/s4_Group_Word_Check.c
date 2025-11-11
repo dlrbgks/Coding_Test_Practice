@@ -5,7 +5,6 @@
 
 int main() {
 	char word[100];
-	char ch_word[100];
 	printf("Enter word's number >> ");
 	int n;
 	int count = 0;
