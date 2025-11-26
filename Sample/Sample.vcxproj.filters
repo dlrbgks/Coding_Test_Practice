@@ -39,5 +39,20 @@
     <ClCompile Include="s8_Aschi_Distance.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="s9_Apple_Tree.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="s10_Oil_Station.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="s11_Korean_Vampire_Comeback.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="s12_Coin_Zero.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="s13_Assign_Conference_Room.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

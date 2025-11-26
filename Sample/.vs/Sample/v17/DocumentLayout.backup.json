@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "C:\\Coding\\Coding_Test_Practice\\Sample\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|C:\\Coding\\Coding_Test_Practice\\Sample\\s12_Coin_Zero.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|solutionrelative:s12_Coin_Zero.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|C:\\Coding\\Coding_Test_Practice\\Sample\\s13_Assign_Conference_Room.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|solutionrelative:s13_Assign_Conference_Room.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|C:\\Coding\\Coding_Test_Practice\\Sample\\s11_Korean_Vampire_Comeback.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|solutionrelative:s11_Korean_Vampire_Comeback.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|C:\\Coding\\Coding_Test_Practice\\Sample\\s10_Oil_Station.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|solutionrelative:s10_Oil_Station.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|C:\\Coding\\Coding_Test_Practice\\Sample\\s9_Apple_Tree.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|solutionrelative:s9_Apple_Tree.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|C:\\Coding\\Coding_Test_Practice\\Sample\\s8_Aschi_Distance.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|solutionrelative:s8_Aschi_Distance.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|C:\\Coding\\Coding_Test_Practice\\Sample\\s4_Group_Word_Check.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|solutionrelative:s4_Group_Word_Check.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|C:\\Coding\\Coding_Test_Practice\\Sample\\s7_Color_Paper.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|solutionrelative:s7_Color_Paper.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|C:\\Coding\\Coding_Test_Practice\\Sample\\s6_Number_Card.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|solutionrelative:s6_Number_Card.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|C:\\Coding\\Coding_Test_Practice\\Sample\\s7_Color_Paper.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|solutionrelative:s7_Color_Paper.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|C:\\Coding\\Coding_Test_Practice\\Sample\\s4_Group_Word_Check.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|solutionrelative:s4_Group_Word_Check.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7BA34949-E916-4F67-B338-AFAB39CA42C9}|Sample.vcxproj|C:\\Coding\\Coding_Test_Practice\\Sample\\s1_chess.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -42,50 +62,113 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "s13_Assign_Conference_Room.c",
+              "DocumentMoniker": "C:\\Coding\\Coding_Test_Practice\\Sample\\s13_Assign_Conference_Room.c",
+              "RelativeDocumentMoniker": "s13_Assign_Conference_Room.c",
+              "ToolTip": "C:\\Coding\\Coding_Test_Practice\\Sample\\s13_Assign_Conference_Room.c",
+              "RelativeToolTip": "s13_Assign_Conference_Room.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-25T13:29:25.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "s12_Coin_Zero.c",
+              "DocumentMoniker": "C:\\Coding\\Coding_Test_Practice\\Sample\\s12_Coin_Zero.c",
+              "RelativeDocumentMoniker": "s12_Coin_Zero.c",
+              "ToolTip": "C:\\Coding\\Coding_Test_Practice\\Sample\\s12_Coin_Zero.c*",
+              "RelativeToolTip": "s12_Coin_Zero.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-25T13:28:20.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "s11_Korean_Vampire_Comeback.c",
+              "DocumentMoniker": "C:\\Coding\\Coding_Test_Practice\\Sample\\s11_Korean_Vampire_Comeback.c",
+              "RelativeDocumentMoniker": "s11_Korean_Vampire_Comeback.c",
+              "ToolTip": "C:\\Coding\\Coding_Test_Practice\\Sample\\s11_Korean_Vampire_Comeback.c",
+              "RelativeToolTip": "s11_Korean_Vampire_Comeback.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-25T11:49:33.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "s10_Oil_Station.c",
+              "DocumentMoniker": "C:\\Coding\\Coding_Test_Practice\\Sample\\s10_Oil_Station.c",
+              "RelativeDocumentMoniker": "s10_Oil_Station.c",
+              "ToolTip": "C:\\Coding\\Coding_Test_Practice\\Sample\\s10_Oil_Station.c",
+              "RelativeToolTip": "s10_Oil_Station.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-25T11:47:43.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "s9_Apple_Tree.c",
+              "DocumentMoniker": "C:\\Coding\\Coding_Test_Practice\\Sample\\s9_Apple_Tree.c",
+              "RelativeDocumentMoniker": "s9_Apple_Tree.c",
+              "ToolTip": "C:\\Coding\\Coding_Test_Practice\\Sample\\s9_Apple_Tree.c",
+              "RelativeToolTip": "s9_Apple_Tree.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-25T11:46:32.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "s8_Aschi_Distance.c",
               "DocumentMoniker": "C:\\Coding\\Coding_Test_Practice\\Sample\\s8_Aschi_Distance.c",
               "RelativeDocumentMoniker": "s8_Aschi_Distance.c",
               "ToolTip": "C:\\Coding\\Coding_Test_Practice\\Sample\\s8_Aschi_Distance.c",
               "RelativeToolTip": "s8_Aschi_Distance.c",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAmwB0AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-11-11T12:17:11.693Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "s7_Color_Paper.c",
               "DocumentMoniker": "C:\\Coding\\Coding_Test_Practice\\Sample\\s7_Color_Paper.c",
               "RelativeDocumentMoniker": "s7_Color_Paper.c",
               "ToolTip": "C:\\Coding\\Coding_Test_Practice\\Sample\\s7_Color_Paper.c",
               "RelativeToolTip": "s7_Color_Paper.c",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAEkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-11-06T03:36:07.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T03:36:07.742Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "s6_Number_Card.c",
               "DocumentMoniker": "C:\\Coding\\Coding_Test_Practice\\Sample\\s6_Number_Card.c",
               "RelativeDocumentMoniker": "s6_Number_Card.c",
               "ToolTip": "C:\\Coding\\Coding_Test_Practice\\Sample\\s6_Number_Card.c",
               "RelativeToolTip": "s6_Number_Card.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-11-06T03:35:23.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T03:35:23.05Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "s5_Tile-0\u00261.c",
               "DocumentMoniker": "C:\\Coding\\Coding_Test_Practice\\Sample\\s5_Tile-0\u00261.c",
               "RelativeDocumentMoniker": "s5_Tile-0\u00261.c",
@@ -93,12 +176,11 @@
               "RelativeToolTip": "s5_Tile-0\u00261.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-11-04T09:10:32.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T09:10:32.641Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "s4_Group_Word_Check.c",
               "DocumentMoniker": "C:\\Coding\\Coding_Test_Practice\\Sample\\s4_Group_Word_Check.c",
               "RelativeDocumentMoniker": "s4_Group_Word_Check.c",
@@ -106,12 +188,11 @@
               "RelativeToolTip": "s4_Group_Word_Check.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-11-04T08:25:31.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T08:25:31.374Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "s3_Merge_Two.c",
               "DocumentMoniker": "C:\\Coding\\Coding_Test_Practice\\Sample\\s3_Merge_Two.c",
               "RelativeDocumentMoniker": "s3_Merge_Two.c",
@@ -119,12 +200,11 @@
               "RelativeToolTip": "s3_Merge_Two.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-10-29T01:42:10.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T01:42:10.201Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "s2_Sugar_Order.c",
               "DocumentMoniker": "C:\\Coding\\Coding_Test_Practice\\Sample\\s2_Sugar_Order.c",
               "RelativeDocumentMoniker": "s2_Sugar_Order.c",
@@ -132,12 +212,11 @@
               "RelativeToolTip": "s2_Sugar_Order.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-10-01T01:26:04.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-01T01:26:04.415Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "s1_chess.c",
               "DocumentMoniker": "C:\\Coding\\Coding_Test_Practice\\Sample\\s1_chess.c",
               "RelativeDocumentMoniker": "s1_chess.c",
@@ -145,8 +224,7 @@
               "RelativeToolTip": "s1_chess.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-09-30T10:49:52.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T10:49:52.331Z"
             }
           ]
         }
